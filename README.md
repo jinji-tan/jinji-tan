@@ -22,11 +22,19 @@ I am a **Software Programmer** with 3+ years of experience specializing in devel
 
 ---
 
-### 🛠️ My Toolbox
+### 💻 Languages & Frameworks
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,js,react,tailwind,html,css,java,py,php,git,unity,azure,postman,vscode,visualstudio&perline=9" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,js,react,tailwind,html,css,java,py,php&perline=11" />
+  </a>
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,unity,azure,postman,vscode,visualstudio&perline=6" />
   </a>
 </p>
 
