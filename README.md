@@ -1,14 +1,14 @@
 # 👋 Hi, I'm John Louis H. Tan (jinji-tan)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Programmer;Software+Programmer;Full-Stack+Developer;Insurance+Systems+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Programmer;Software+Programmer;Full-Stack+Developer;Home+Insurance+Systems+Expert" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a **Software Programmer** with 3+ years of experience specializing in developing and maintaining complex insurance rating systems. My expertise lies in building robust backend solutions, implementing business rules, and ensuring regulatory compliance across various U.S. states.
+I am a **Software Programmer** with 3+ years of experience specializing in developing and maintaining complex **home insurance** rating systems. My expertise lies in building robust backend solutions, implementing business rules, and ensuring regulatory compliance across various U.S. states.
 
 - 🔭 I’m currently working on enhancing my full-stack capabilities with **React** and **ASP.NET**.
 - 🌱 I’m currently learning more about **Cloud Architecture** and **DevOps**.
