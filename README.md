@@ -11,14 +11,14 @@
 
 ---
 
-### 🚀 Professional Summary
+### 🚀 About Me
 
-> **"Passionate Software Programmer with 3+ years of experience specializing in complex home insurance rating systems. I bridge the gap between complex business rules and scalable backend solutions."**
+I am a **Software Programmer** with 3+ years of experience specializing in developing and maintaining complex **home insurance** rating systems. My expertise lies in building robust backend solutions, implementing business rules, and ensuring regulatory compliance across various U.S. states.
 
-- 🔭 **Current Focus**: Architecting high-performance APIs and exploring Cloud Native solutions.
-- 🌱 **Learning**: Advanced microservices with .NET 8 and Azure Architecture.
-- 🎓 **Education**: B.S. in Information Technology (Class of **2022**) from PCU.
-- 🎮 **Fun Project**: Developed a 3D disaster awareness game in Unity/C#.
+- 🔭 I’m currently working on enhancing my full-stack capabilities with **React** and **ASP.NET**.
+- 🌱 I’m currently learning more about **Cloud Architecture** and **DevOps**.
+- 🎓 Graduated with a **B.S. in Information Technology** from Philippine Christian University in **2022**.
+- 🎮 Fun Fact: For my thesis, I developed a **3D educational game in Unity (C#)** for disaster awareness.
 
 ---
 
