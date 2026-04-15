@@ -49,7 +49,7 @@ I am a **Software Programmer** with 3+ years of experience specializing in devel
         <img src="https://github-readme-stats.vercel.app/api?username=jinji-tan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinji-tan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinji-tan&layout=compact&theme=tokyonight&hide_border=true&hide=ShaderLab" alt="Top Languages" />
       </td>
     </tr>
   </table>
