@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I am a **Software Programmer** with 3+ years of experience specializing in developing and maintaining complex **home insurance** rating systems. My expertise lies in building robust backend solutions, implementing business rules, and ensuring regulatory compliance across various U.S. states.
+I’m a developer specializing in .NET and JavaScript, focused on building scalable backend systems and clean web applications. I have 3+ years of professional experience developing and maintaining complex **home insurance rating systems**, where I implemented business rules and ensured regulatory compliance across multiple U.S. states.
 
 - 🔭 I’m currently working on enhancing my full-stack capabilities with **React** and **ASP.NET**.
 - 🌱 I’m currently learning more about **Cloud Architecture** and **DevOps**.
