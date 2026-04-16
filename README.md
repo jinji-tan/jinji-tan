@@ -17,6 +17,7 @@ I’m a **developer** specializing in .NET and JavaScript, focused on building s
 
 - 🎓 Graduated with a **B.S. in Information Technology** from **Philippine Christian University** in **2022**.
 - 🎓 **Academic Highlight**: Developed a **3D educational game in Unity (C#)** for disaster awareness as part of my thesis.
+- 🌐 **Portfolio**: [louistan.vercel.app](https://louistan.vercel.app/)
 
 ---
 
