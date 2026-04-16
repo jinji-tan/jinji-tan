@@ -1,7 +1,7 @@
 # 👋 Hi, I'm John Louis H. Tan (jinji-tan)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Software+Programmer;Full-Stack+Developer;Home+Insurance+Systems+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Developer;Home+Insurance+Programmer;Game+Developer;" alt="Typing SVG" />
 </p>
 
 <p align="center">
