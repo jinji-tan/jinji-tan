@@ -15,9 +15,7 @@
 
 I’m a **developer** specializing in .NET and JavaScript, focused on building scalable backend systems and clean web applications. I have 3 years of professional experience developing and maintaining complex **home insurance rating systems**, where I implemented business rules and ensured regulatory compliance across multiple U.S. states.
 
-- 🔭 I’m currently working on enhancing my full-stack capabilities with **React** and **ASP.NET**.
-- 🌱 I’m currently learning more about **Cloud Architecture** and **DevOps**.
-- 🎓 Graduated with a **B.S. in Information Technology** from Philippine Christian University in **2022**.
+- 🎓 Graduated with a **B.S. in Information Technology** from **Philippine Christian University** in **2022**.
 - 🎓 **Academic Highlight**: Developed a **3D educational game in Unity (C#)** for disaster awareness as part of my thesis.
 
 ---
