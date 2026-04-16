@@ -59,12 +59,6 @@ I’m a **developer** specializing in .NET and JavaScript, focused on building s
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="mailto:louistan600@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/jinji-tan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://louistan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00D1FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
